@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Text-mani/static/css/main.073c9b0a.css",
+    "main.js": "/Text-mani/static/js/main.0bfb338a.js",
+    "static/js/787.c1112931.chunk.js": "/Text-mani/static/js/787.c1112931.chunk.js",
+    "index.html": "/Text-mani/index.html",
+    "main.073c9b0a.css.map": "/Text-mani/static/css/main.073c9b0a.css.map",
+    "main.0bfb338a.js.map": "/Text-mani/static/js/main.0bfb338a.js.map",
+    "787.c1112931.chunk.js.map": "/Text-mani/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bfb338a.js"
+  ]
+}
