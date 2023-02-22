@@ -47,7 +47,7 @@ function App() {
      <Navbar title="Text-Mani" mode={mode} toggleMode={toggleMode}/>
      <Alert alert={alert}/>
      <Routes>
-          <Route exact path="/" element={<Textform heading="Enter Text Here:"showAlert={showAlert}/>} />
+          <Route path="/" element={<Textform heading="Enter Text Here:"showAlert={showAlert}/>} />
           <Route exact path="/about" element={<About />}/>
       </Routes>
       </Router>
