@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-mani/static/css/main.073c9b0a.css",
-    "main.js": "/Text-mani/static/js/main.0bfb338a.js",
-    "static/js/787.c1112931.chunk.js": "/Text-mani/static/js/787.c1112931.chunk.js",
-    "index.html": "/Text-mani/index.html",
-    "main.073c9b0a.css.map": "/Text-mani/static/css/main.073c9b0a.css.map",
-    "main.0bfb338a.js.map": "/Text-mani/static/js/main.0bfb338a.js.map",
-    "787.c1112931.chunk.js.map": "/Text-mani/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/Text-mani.app/static/css/main.073c9b0a.css",
+    "main.js": "/Text-mani.app/static/js/main.497e6954.js",
+    "static/js/787.c1112931.chunk.js": "/Text-mani.app/static/js/787.c1112931.chunk.js",
+    "index.html": "/Text-mani.app/index.html",
+    "main.073c9b0a.css.map": "/Text-mani.app/static/css/main.073c9b0a.css.map",
+    "main.497e6954.js.map": "/Text-mani.app/static/js/main.497e6954.js.map",
+    "787.c1112931.chunk.js.map": "/Text-mani.app/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0bfb338a.js"
+    "static/js/main.497e6954.js"
   ]
 }
