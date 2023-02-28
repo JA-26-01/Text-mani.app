@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Text-Mani
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Text-Mani is a text manipulation app which allows the user to perform simple operations like comverting the text to uppercase or lowercase, copy the manipulated text to clipboard and clear the text box if required, to enter new text. 
 
-## Use the app
+# Use the app
 
-You can find the app on https://ja-26-01.github.io/Text-mani.app/
+You can use the app [here](https://ja-26-01.github.io/Text-mani.app/). 
 
