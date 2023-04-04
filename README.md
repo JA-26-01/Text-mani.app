@@ -8,4 +8,3 @@ The app has been created using React as the main framework, supported by Boostra
 
 You can use the app [here](https://ja-26-01.github.io/Text-mani.app/)
 
-
